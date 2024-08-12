@@ -4,20 +4,19 @@ Este projeto foi desenvolvido como parte da primeira aula prática da formação
 
 ## Funcionalidades
 
-- **Buscar Piada**: Retorna uma piada aleatória a partir de uma base de dados.
-- **Criar Piada**: Permite adicionar uma nova piada à base de dados.
+- **Buscar Piada**: Retorna uma piada aleatória a partir de um array.
+- **Criar Piada**: Permite adicionar uma nova piada ao array.
 
 ## Tecnologias Utilizadas
 
 - **PHP 8.x**
-- **Laravel 10.x**
-- **SQLite** (ou o banco de dados da sua escolha)
+- **Laravel 11.x**
+
 
 ## Requisitos
 
 - PHP 8.x ou superior
 - Composer
-- SQLite ou outro banco de dados configurado no arquivo `.env`
 
 ## Instalação
 
