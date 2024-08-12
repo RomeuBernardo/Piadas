@@ -40,13 +40,7 @@ Este projeto foi desenvolvido como parte da primeira aula prática da formação
     php artisan key:generate
     ```
 
-4. Configure o banco de dados no arquivo `.env`. Se estiver usando SQLite, crie um arquivo `database.sqlite`:
-
-    ```bash
-    touch database/database.sqlite
-    ```
-
-5. Inicie o servidor de desenvolvimento:
+4. Inicie o servidor de desenvolvimento:
 
     ```bash
     php artisan serve
