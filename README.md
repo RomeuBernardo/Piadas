@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte da primeira aula prática da formação
 1. Clone este repositório:
 
     ```bash
-    git clone [https://seurepositorio.git](https://github.com/Guel-Almeida/Forma-o-Backend)
+    git clone (https://github.com/Guel-Almeida/Forma-o-Backend)
     cd PiadaAPI
     ```
 
