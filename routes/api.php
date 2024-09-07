@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\Joke;
+use App\Http\Controllers\FileController;
+
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -10,3 +12,4 @@ Route::get('/user', function (Request $request) {
 
 Route::get('piadas',[Joke::class,'Jokes']);
 Route::post('piadas',[Joke::class,'create']);
+
